@@ -1,0 +1,25 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Налаштування клієнта</comment>
+
+    <!-- GUI -->
+    <entry key="gui.application-icon">/icons/ClientIcon.png</entry>
+    <entry key="gui.view-prefix">/views/</entry>
+    <entry key="gui.view-suffix">.fxml</entry>
+
+    <entry key="gui.message-status-image-prefix">/statuses/</entry>
+    <entry key="gui.message-status-image-suffix">.png</entry>
+    <entry key="gui.message-status-image-width">16</entry>
+    <entry key="gui.message-status-image-height">16</entry>
+    <entry key="gui.message-time-pattern">HH:mm:ss</entry>
+    <entry key="gui.message-content-max-width">500</entry>
+    <entry key="gui.message-content-spacing">10</entry>
+
+    <entry key="gui.server-name">SERVER</entry>
+    <entry key="gui.server-name-style">-fx-text-fill: red; -fx-font-weight: bold;</entry>
+
+    <!-- Властивості клієнта -->
+    <entry key="client.listening-period">100</entry>
+    <entry key="client.ip-test-host">8.8.8.8</entry>
+    <entry key="client.ip-test-port">10002</entry>
+</properties>

@@ -1,0 +1,6 @@
+# Project exclude paths
+/apache-maven-3.6.3/
+/chat-client/target/
+/chat-core/target/
+/chat-server/target/
+/tests/
